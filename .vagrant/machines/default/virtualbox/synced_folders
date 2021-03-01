@@ -1,0 +1,1 @@
+{"nfs":{"/var/www/html":{"type":"nfs","guestpath":"/var/www/html","hostpath":"/System/Volumes/Data/Users/ajdiaz/vagrant_getting_started","disabled":false,"__vagrantfile":true,"map_uid":501,"map_gid":20,"nfs_version":3,"nfs_udp":true,"uuid":"2255575206"}}}
